@@ -1,4 +1,6 @@
 # Compiled source #
 ###################
 *.o
+*.txt
+*.gch
 bin/
